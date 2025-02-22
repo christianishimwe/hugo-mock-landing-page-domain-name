@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on LALA</title>
-    <link>https://christianishimwe.github.io/hugo-mock-landing-page/series/</link>
+    <link>https://christianishimwe.github.io/hugo-mock-landing-page-autodeployed/series/</link>
     <description>Recent content in Series on LALA</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Christian Ishimwe</copyright>
-    <atom:link href="https://christianishimwe.github.io/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://christianishimwe.github.io/hugo-mock-landing-page-autodeployed/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

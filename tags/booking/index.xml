@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Booking on LALA</title>
-    <link>https://christianishimwe.github.io/hugo-mock-landing-page/tags/booking/</link>
+    <link>https://christianishimwe.github.io/hugo-mock-landing-page-autodeployed/tags/booking/</link>
     <description>Recent content in Booking on LALA</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Christian Ishimwe</copyright>
     <lastBuildDate>Mon, 10 Feb 2025 14:09:00 -0500</lastBuildDate>
-    <atom:link href="https://christianishimwe.github.io/hugo-mock-landing-page/tags/booking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://christianishimwe.github.io/hugo-mock-landing-page-autodeployed/tags/booking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing LaLa: The Future of Hassle-Free Stays in Kigali</title>
-      <link>https://christianishimwe.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
+      <link>https://christianishimwe.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link>
       <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://christianishimwe.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
+      <guid>https://christianishimwe.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;lala-stays.png&#34; alt=&#34;Discover LaLa&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your next stay in Kigali just got easier!&lt;/strong&gt; ✨&lt;br&gt;&#xA;Meet &lt;strong&gt;LaLa&lt;/strong&gt;, the go-to platform for seamless, reliable, and secure &lt;strong&gt;short-term rentals&lt;/strong&gt; in Kigali.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;-why-choose-lala&#34;&gt;&lt;strong&gt;🏡 Why Choose LaLa?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Curated Stays&lt;/strong&gt; – Find the best apartments, villas, and homes in Kigali.&lt;br&gt;&#xA;✅ &lt;strong&gt;Secure &amp;amp; Fast Booking&lt;/strong&gt; – Instant confirmation and &lt;strong&gt;safe payment processing&lt;/strong&gt;.&lt;br&gt;&#xA;✅ &lt;strong&gt;Affordable Options&lt;/strong&gt; – Budget-friendly to luxury stays, tailored to your needs.&lt;br&gt;&#xA;✅ &lt;strong&gt;24/7 Customer Support&lt;/strong&gt; – We’re always here to assist.&lt;/p&gt;</description>
     </item>
   </channel>
