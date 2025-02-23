@@ -102,3 +102,73 @@ For inquiries or contributions:
 
 🚀 **Enjoy using Hugo Mock Landing Page – The easiest way to create a modern, static landing page!**
 
+#####################################################################################################################
+
+# Hugo Website Deployment Workflow
+
+This repository uses GitHub Actions to automatically build and deploy a Hugo website to GitHub Pages.
+
+## 🔄 Workflow Overview
+
+The workflow (`/.github/workflows/deploy-hugo.yml`) automatically triggers when code is pushed to the `main` branch. It handles the complete process of building and deploying the Hugo website.
+
+## 🛠️ Technical Details
+
+### Prerequisites
+- A Hugo website repository
+- GitHub Pages enabled for your repository
+- Hugo version 0.144.1 (extended version)
+
+### Workflow Steps
+
+1. **Source Code Checkout**
+   - Checks out the repository code
+   - Includes all submodules (important for Hugo themes)
+   - Fetches complete Git history for Hugo's `.GitInfo` and `.Lastmod` features
+
+2. **Hugo Setup**
+   - Installs Hugo v0.144.1 (extended version)
+   - Configures the Hugo environment
+
+3. **Build Process**
+   - Builds the Hugo static files
+   - Includes draft content (`-D` flag)
+   - Performs garbage collection (`--gc`)
+   - Minifies output files for better performance
+
+4. **Deployment**
+   - Deploys to the `gh-pages` branch
+   - Uses GitHub's automated token system
+   - Sets up proper commit attribution
+
+## 🚀 Usage
+
+The workflow runs automatically when you push to the `main` branch. No manual intervention is required.
+
+To modify the workflow:
+1. Edit the `.github/workflows/deploy-hugo.yml` file
+2. Commit and push your changes to the `main` branch
+
+## ⚙️ Configuration Options
+
+### Hugo Version
+```yaml
+hugo-version: "0.144.1"
+```
+Change this value to use a different Hugo version.
+
+### Custom Domain
+To use a custom domain, uncomment and modify the following line in the workflow file:
+```yaml
+## cname: mydomain.com
+```
+
+### Draft Content
+The `-D` flag in the build command includes draft content. Remove this flag to exclude drafts from the build.
+
+## 📝 Notes
+
+- The workflow uses Ubuntu 22.04 as the running environment
+- All actions use specific versions for stability
+- The deployment uses GitHub's automated token system for authentication
+- Commit messages in the `gh-pages` branch will be attributed to the GitHub Actions bot
