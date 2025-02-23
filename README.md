@@ -14,7 +14,7 @@ This project incorporates **pre-designed UI/UX components** sourced from **CodeP
 - **Responsive Design with Bootstrap 5** – Ensures mobile and desktop compatibility.
 - **Three.js Animation** – Adds an interactive **visual animation in the masthead**.
 - **Dynamic Content Management** – Easily manage pages, posts, and content with Hugo.
-- **SEO-Optimized** – Designed with clean HTML and structured metadata.
+- **SEO-Optimized** – Designed with clean HTML and structured metadata
 
 ---
 
