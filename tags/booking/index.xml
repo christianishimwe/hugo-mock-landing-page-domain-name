@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Booking on LALA</title>
-    <link>https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/tags/booking/</link>
-    <description>Recent content in Booking on LALA</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Christian Ishimwe</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 14:09:00 -0500</lastBuildDate>
-    <atom:link href="https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/tags/booking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducing LaLa: The Future of Hassle-Free Stays in Kigali</title>
-      <link>https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/post/bootstrap-5-2-0-beta/</link>
-      <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/post/bootstrap-5-2-0-beta/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;lala-stays.png&#34; alt=&#34;Discover LaLa&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your next stay in Kigali just got easier!&lt;/strong&gt; ✨&lt;br&gt;&#xA;Meet &lt;strong&gt;LaLa&lt;/strong&gt;, the go-to platform for seamless, reliable, and secure &lt;strong&gt;short-term rentals&lt;/strong&gt; in Kigali.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;-why-choose-lala&#34;&gt;&lt;strong&gt;🏡 Why Choose LaLa?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Curated Stays&lt;/strong&gt; – Find the best apartments, villas, and homes in Kigali.&lt;br&gt;&#xA;✅ &lt;strong&gt;Secure &amp;amp; Fast Booking&lt;/strong&gt; – Instant confirmation and &lt;strong&gt;safe payment processing&lt;/strong&gt;.&lt;br&gt;&#xA;✅ &lt;strong&gt;Affordable Options&lt;/strong&gt; – Budget-friendly to luxury stays, tailored to your needs.&lt;br&gt;&#xA;✅ &lt;strong&gt;24/7 Customer Support&lt;/strong&gt; – We’re always here to assist.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Booking on LALA</title><link>https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/tags/booking/</link><description>Recent content in Booking on LALA</description><generator>Hugo</generator><language>en</language><copyright>Christian Ishimwe</copyright><lastBuildDate>Mon, 24 Feb 2025 01:44:04 +0000</lastBuildDate><atom:link href="https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/tags/booking/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing LaLa: The Future of Hassle-Free Stays in Kigali</title><link>https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/post/bootstrap-5-2-0-beta/</link><pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate><guid>https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/post/bootstrap-5-2-0-beta/</guid><description>&lt;p>&lt;img src="lala-stays.png" alt="Discover LaLa">
+{ .img-fluid }&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Your next stay in Kigali just got easier!&lt;/strong> ✨&lt;br>
+Meet &lt;strong>LaLa&lt;/strong>, the go-to platform for seamless, reliable, and secure &lt;strong>short-term rentals&lt;/strong> in Kigali.&lt;/p>&lt;/blockquote>
+&lt;h3 id="-why-choose-lala">&lt;strong>🏡 Why Choose LaLa?&lt;/strong>&lt;/h3>
+&lt;p>✅ &lt;strong>Curated Stays&lt;/strong> – Find the best apartments, villas, and homes in Kigali.&lt;br>
+✅ &lt;strong>Secure &amp;amp; Fast Booking&lt;/strong> – Instant confirmation and &lt;strong>safe payment processing&lt;/strong>.&lt;br>
+✅ &lt;strong>Affordable Options&lt;/strong> – Budget-friendly to luxury stays, tailored to your needs.&lt;br>
+✅ &lt;strong>24/7 Customer Support&lt;/strong> – We’re always here to assist.&lt;/p></description></item></channel></rss>
