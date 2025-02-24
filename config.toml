@@ -1,5 +1,6 @@
 author = "Christian"
-baseURL = 'https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/'
+#baseURL = 'https://christianishimwe.github.io/hugo-mock-landing-page-domain-name/'
+baseURL = 'https://lalas.baby/'
 copyright = "Christian Ishimwe"
 title = "LALA"
 
